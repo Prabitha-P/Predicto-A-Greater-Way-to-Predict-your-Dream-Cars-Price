@@ -15,7 +15,7 @@ __As said, Visualization is a great way to learn things! Go ahead and explore to
 
 ![graph_image](Prabitha_P/Readme_images/graph.png)
 
-### Soul of Predicto: [Prabitha_P/Data Analysis.ipynb](./Prabitha_P/Data_Analysis.ipynb)<br>
+### Soul of Predicto: [Prabitha_P/Data_Analysis.ipynb](./Prabitha_P/Data_Analysis.ipynb)<br>
 
 ![data](Prabitha_P/Readme_images/data.png)
 ### Deep Dive into codes
