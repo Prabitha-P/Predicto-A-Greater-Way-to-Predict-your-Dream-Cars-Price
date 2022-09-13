@@ -5,7 +5,7 @@
 > &ensp;📊  Predict the selling price of the car with ease <br>
   &ensp;👀 Play around with the interactive graph and visualize the trends <br><br>
 
-![front_page](Prabitha_P_Microsoft/Readme_images/front.jpg)
+![front_page](Prabitha_P/Readme_images/front.jpg)
 <br>
 >  &ensp; **Target audience include**<br>
   &ensp;🚘The one who wants to sell their car<br>
